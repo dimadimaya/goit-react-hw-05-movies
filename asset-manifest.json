@@ -1,25 +1,33 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-05-movies/static/css/main.df8c4db0.css",
-    "main.js": "/goit-react-hw-05-movies/static/js/main.5c1e9290.js",
-    "static/js/415.54f6a003.chunk.js": "/goit-react-hw-05-movies/static/js/415.54f6a003.chunk.js",
-    "static/js/134.cb85ab56.chunk.js": "/goit-react-hw-05-movies/static/js/134.cb85ab56.chunk.js",
-    "static/js/719.f82b4993.chunk.js": "/goit-react-hw-05-movies/static/js/719.f82b4993.chunk.js",
-    "static/js/247.5e78ff60.chunk.js": "/goit-react-hw-05-movies/static/js/247.5e78ff60.chunk.js",
-    "static/js/186.9ab89b54.chunk.js": "/goit-react-hw-05-movies/static/js/186.9ab89b54.chunk.js",
-    "static/js/805.d63c9290.chunk.js": "/goit-react-hw-05-movies/static/js/805.d63c9290.chunk.js",
+    "main.css": "/goit-react-hw-05-movies/static/css/main.a115d57b.css",
+    "main.js": "/goit-react-hw-05-movies/static/js/main.a82aeeab.js",
+    "static/css/415.d4167ad0.chunk.css": "/goit-react-hw-05-movies/static/css/415.d4167ad0.chunk.css",
+    "static/js/415.fbdacb8a.chunk.js": "/goit-react-hw-05-movies/static/js/415.fbdacb8a.chunk.js",
+    "static/css/722.33f88b34.chunk.css": "/goit-react-hw-05-movies/static/css/722.33f88b34.chunk.css",
+    "static/js/722.0647820d.chunk.js": "/goit-react-hw-05-movies/static/js/722.0647820d.chunk.js",
+    "static/css/601.08c5646d.chunk.css": "/goit-react-hw-05-movies/static/css/601.08c5646d.chunk.css",
+    "static/js/601.1c50e6ac.chunk.js": "/goit-react-hw-05-movies/static/js/601.1c50e6ac.chunk.js",
+    "static/css/76.ee4ea738.chunk.css": "/goit-react-hw-05-movies/static/css/76.ee4ea738.chunk.css",
+    "static/js/76.c675a7c1.chunk.js": "/goit-react-hw-05-movies/static/js/76.c675a7c1.chunk.js",
+    "static/css/168.58224f2d.chunk.css": "/goit-react-hw-05-movies/static/css/168.58224f2d.chunk.css",
+    "static/js/168.03242b00.chunk.js": "/goit-react-hw-05-movies/static/js/168.03242b00.chunk.js",
     "index.html": "/goit-react-hw-05-movies/index.html",
-    "main.df8c4db0.css.map": "/goit-react-hw-05-movies/static/css/main.df8c4db0.css.map",
-    "main.5c1e9290.js.map": "/goit-react-hw-05-movies/static/js/main.5c1e9290.js.map",
-    "415.54f6a003.chunk.js.map": "/goit-react-hw-05-movies/static/js/415.54f6a003.chunk.js.map",
-    "134.cb85ab56.chunk.js.map": "/goit-react-hw-05-movies/static/js/134.cb85ab56.chunk.js.map",
-    "719.f82b4993.chunk.js.map": "/goit-react-hw-05-movies/static/js/719.f82b4993.chunk.js.map",
-    "247.5e78ff60.chunk.js.map": "/goit-react-hw-05-movies/static/js/247.5e78ff60.chunk.js.map",
-    "186.9ab89b54.chunk.js.map": "/goit-react-hw-05-movies/static/js/186.9ab89b54.chunk.js.map",
-    "805.d63c9290.chunk.js.map": "/goit-react-hw-05-movies/static/js/805.d63c9290.chunk.js.map"
+    "main.a115d57b.css.map": "/goit-react-hw-05-movies/static/css/main.a115d57b.css.map",
+    "main.a82aeeab.js.map": "/goit-react-hw-05-movies/static/js/main.a82aeeab.js.map",
+    "415.d4167ad0.chunk.css.map": "/goit-react-hw-05-movies/static/css/415.d4167ad0.chunk.css.map",
+    "415.fbdacb8a.chunk.js.map": "/goit-react-hw-05-movies/static/js/415.fbdacb8a.chunk.js.map",
+    "722.33f88b34.chunk.css.map": "/goit-react-hw-05-movies/static/css/722.33f88b34.chunk.css.map",
+    "722.0647820d.chunk.js.map": "/goit-react-hw-05-movies/static/js/722.0647820d.chunk.js.map",
+    "601.08c5646d.chunk.css.map": "/goit-react-hw-05-movies/static/css/601.08c5646d.chunk.css.map",
+    "601.1c50e6ac.chunk.js.map": "/goit-react-hw-05-movies/static/js/601.1c50e6ac.chunk.js.map",
+    "76.ee4ea738.chunk.css.map": "/goit-react-hw-05-movies/static/css/76.ee4ea738.chunk.css.map",
+    "76.c675a7c1.chunk.js.map": "/goit-react-hw-05-movies/static/js/76.c675a7c1.chunk.js.map",
+    "168.58224f2d.chunk.css.map": "/goit-react-hw-05-movies/static/css/168.58224f2d.chunk.css.map",
+    "168.03242b00.chunk.js.map": "/goit-react-hw-05-movies/static/js/168.03242b00.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df8c4db0.css",
-    "static/js/main.5c1e9290.js"
+    "static/css/main.a115d57b.css",
+    "static/js/main.a82aeeab.js"
   ]
 }
