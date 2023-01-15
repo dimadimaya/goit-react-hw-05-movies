@@ -1,10 +1,11 @@
 import { Suspense } from 'react';
 import { Outlet, NavLink } from 'react-router-dom';
+import styles from './SharedLayout.module.css';
 
 export const SharedLayout = () => {
   return (
     <>
-      <nav>
+      <nav className={styles.header}>
         <NavLink to="/" end>
           Home
         </NavLink>
