@@ -5,29 +5,29 @@ import { searchMovie } from 'services/api';
 import styles from './SearchForm.module.css';
 
 export const SearchForm = () => {
-  const [query, setQuery] = useState('');
+  const [searchQuery, setSearchQuery] = useState('');
   const [movies, setMovies] = useState([]);
   const [searchParams, setSearchParams] = useSearchParams();
-  const name = searchParams.get('name');
+  const query = searchParams.get('query');
 
   const handleInput = event => {
-    setQuery(event.target.value);
+    setSearchQuery(event.target.value);
   };
 
   useEffect(() => {
-    if (!name) {
+    if (!query) {
       return;
     }
-    searchMovie(name).then(data => {
+    searchMovie(query).then(data => {
       setMovies(data);
     });
-  }, [searchParams, name]);
+  }, [searchParams, query]);
 
   const handleSubmit = event => {
     event.preventDefault();
 
-    setSearchParams({ name: query });
-    setQuery('');
+    setSearchParams({ query: searchQuery });
+    setSearchQuery('');
   };
 
   return (
@@ -38,7 +38,7 @@ export const SearchForm = () => {
           type="text"
           placeholder="Enter your query here, please"
           onChange={handleInput}
-          value={query}
+          value={searchQuery}
         />
         <button type="submit" className={styles.btn}>
           Search
